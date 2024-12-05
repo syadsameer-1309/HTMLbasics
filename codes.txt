@@ -1,0 +1,10 @@
+1)git init
+2)git add .
+3)git commit -m "version 1"
+4)git remote add origin https://github.com/username/your-repo.git
+5)git push -u origin master
+
+
+optional:
+1) git config --global user.email "youremail@gmail.com"
+2) git config --global user.name "yourusername"
